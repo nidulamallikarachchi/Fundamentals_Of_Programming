@@ -1,0 +1,15 @@
+Album Name: Classics
+Genre: Classic
+Tracks:
+1. Blue Night	Location: "\Albums\Classics\Blue Night.mp3"
+2. More Than a Friend	Location: "\Albums\Classics\More Than a Friend.mp3"
+3. Sleeping Child	Location: "\Albums\Classics\Sleeping Child.mp3"Album Name: Pop
+
+
+
+Album Name: Short
+Genre: Pop
+Tracks:
+1. Jazz	Location: "\Albums\Short\Jazz.mp3"
+2. bass	Location: "\Albums\Short\bass.mp3"
+
